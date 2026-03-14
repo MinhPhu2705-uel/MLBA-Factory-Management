@@ -1,5 +1,4 @@
 # Factory Management System
-### Made By; Duy Thong, Thu Thao, The Phuc, Minh Phu
 Tools: Visual Studio Code (Python, PyQt6 module), QtDesginer, MySQL Workbench
 #### Dataset
 Link: https://www.kaggle.com/datasets/gladdenme/factory-workers-daily-performance-attrition-s/data?fbclid=IwZXh0bgNhZW0CMTAAAR3YI31jfh3cTwE09vreSQ1UB33ipJQiov0cV-kBpanpugOX749uzFE5oHs_aem_uLOudP7b5Z2Ksecs3hE0-g
